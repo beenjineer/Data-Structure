@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BinaryNode&lt;ItemType&gt;">
+    <Position X="1.75" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAEQAAAAAAICAQAQAAAABAAAAAAAACAAAKAAAA=</HashCode>
+      <FileName>BinaryNode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BinarySearchTree&lt;ItemType&gt;" HideInheritanceLine="true">
+    <Position X="4.5" Y="1" Width="2" />
+    <InheritanceLine Type="BinaryTree&lt;ItemType&gt;" IsHidden="true" />
+    <TypeIdentifier>
+      <HashCode>AAQAAKQFAQBAAQAUAAEAAAAEAAFQAEEACAAAAAAAAAQ=</HashCode>
+      <FileName>BinarySearchTree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BinaryTree&lt;ItemType&gt;">
+    <Position X="1.75" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAgAABCAAgEBIEAEAAAAAAAAAAAAAAgAQAAQAA=</HashCode>
+      <FileName>BinaryTree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HashTable">
+    <Position X="9.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQgAAAACABAAIIQAAAQAAAgAAIAAAAKAAAwAQA=</HashCode>
+      <FileName>HashTable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LinkedList">
+    <Position X="12.25" Y="1" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="LinkedList::ListNode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>LinkedList.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAIAAAEwRAAAAAABAAABAAAAAAAAAAAAAAEAAAEQAA=</HashCode>
+      <FileName>LinkedList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Product">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAETAAAEQAAAUAAAAAEAARgABAAAABAAAQAYAQAQgAA=</HashCode>
+      <FileName>Product.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stack">
+    <Position X="9.75" Y="5.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="Stack::StackNode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Stack.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAADAAAAIgAgIAAAAAAAAAIAAAEQAA=</HashCode>
+      <FileName>Stack.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
